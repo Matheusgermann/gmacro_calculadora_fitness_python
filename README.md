@@ -1,7 +1,7 @@
 # Gmacro
 
 🔗 **Acesse o projeto online:**
-https://matheusgermann.github.io/gmacro_calculadora_fitness_python/
+https://www.online-python.com/zN6yw9cgWa
 
 📌 **Objetivo:** Código em Python que permite calcular a quantidade diária recomendada de calorias, proteínas, carboidratos e gorduras com base nas informações de cada usuário.
 
